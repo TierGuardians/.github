@@ -62,9 +62,8 @@ Spring Security, JWT 인증, 비밀번호 암호화, DB 권한 설정 등으로 
 
 ## 🗂️ APIs
 API는 아래에서 확인할 수 있습니다.
-.. 추가 예정
 
-👉🏻 [API 바로보기](/backend/APIs.md)
+👉🏻 [API 바로보기](https://documenter.getpostman.com/view/46826803/2sB3B7QZut)
 
 
 ## 📁 레포지토리
