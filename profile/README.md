@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- logo -->
-<img width="300" src="https://github.com/user-attachments/assets/b568d99c-13d3-40c5-a354-6212d0ebe325" />
+<img width="500"  src="https://github.com/user-attachments/assets/9b18cf86-873c-4b38-a4c6-44e4684f5bf6" />
 
 <br/> <img src="https://img.shields.io/badge/프로젝트 기간-2025.07.15 ~ 2025.08.05-green?style=plastic&logo=&logoColor=white" />
 <br>
