@@ -77,7 +77,8 @@ API는 아래에서 확인할 수 있습니다.
 <br />
 
 ## 🛠️ 프로젝트 아키텍쳐
-.. 추가 예정
+<img width="700" src="https://github.com/user-attachments/assets/066f043c-14c2-4ed6-8378-63f4888fc791" />
+
 
 <br />
 
