@@ -72,7 +72,6 @@ API는 아래에서 확인할 수 있습니다.
 | Frontend | React 기반 프론트엔드 소스     | [🔗 바로가기](https://github.com/TierGuardians/3tier_security_web) |
 | Backend  | Spring Boot 기반 백엔드 소스 | [🔗 바로가기](https://github.com/TierGuardians/3tier_security_was)  |
 | DB  | MySQL 기반 DB 소 | [🔗 바로가기](https://github.com/TierGuardians/3tier_security_db)  |
-| Docs     | API 문서 및 설계 문서        | [🔗 바로가기](https://github.com/TierGuardians/3tier_security_docs)     |
 
 <br />
 
