@@ -51,9 +51,9 @@ Spring Security, JWT 인증, 비밀번호 암호화, DB 권한 설정 등으로 
 - DB 접근 권한 제한 설정
 
 ### 화면 구성
-|Screen #1|Screen #2|
+|Screen 1 - 로그인 & 회원가입| Screen 2 - main|
 |:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="400"/>|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="400"/>|
+|![finlet_login](https://github.com/user-attachments/assets/170ad8d7-d9aa-44c0-8250-fd032c5969d1)| ![finlet_main](https://github.com/user-attachments/assets/77e7a9be-40cd-4513-ab93-3eff070d3137)|
 
 ### 프로토타입
 <img width="1370" height="631" alt="prototype" src="https://github.com/user-attachments/assets/107c4c1f-6262-4288-9172-08659bc2bc49" />
